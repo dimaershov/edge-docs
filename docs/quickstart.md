@@ -161,6 +161,20 @@ When you have finished booting you can easily check that EFI loaded the key:
 dmesg | grep 'EFI: Loaded cert' | grep 8812
 ```
 
+If you're using NetworkManager, it may periodically scan for networks to maintain optimal connectivity.
+WiFi device must change from its current radio channel to other channels and wait for a short amount of
+time listening for beacons from access points. This happens every two minutes and leads to latancy problems.
+You can disable this behaviour by locking your WiFi connection profile to the BSSID of Edge's access point.  
+When you do this, NetworkManager understands that you do not want to roam and will disable the periodic scanning behavior.
+
+* Firstly, you need to determine Edge's MAC address. You can obtain it from ifconfig or use arp command as follows:
+
+    `$ arp -a` 
+
+ * Then open your WiFi settings from top bar, click 'Edit connections' and find Edge's connection profile. Modify the BSSID field with the MAC address of your Edge and save.
+
+<div style="text-align: center;"><img src="../img/quickstart/edit_bssid.png" style="width: 550px;"></div><br>
+
 
 #### Mac OS X
 
