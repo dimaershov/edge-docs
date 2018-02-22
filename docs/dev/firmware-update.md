@@ -1,6 +1,12 @@
 Along with QGC you can flash your Edge with Etcher.
 
-### Etcher (Windows)
+### Grab the latest image
+
+Download the latest available image and extract it
+
+* [Emlid Edge image v1.3 (2017-12-30)](https://files.emlid.com/edge/firmware/2017-12-30-edge-emlid-v1.3.img.zip)
+
+### Etcher (Windows/MacOSX)
 
 * Download and install [RpiBoot](https://github.com/raspberrypi/usbboot/raw/master/win32/rpiboot_setup.exe)
 * Download [Etcher](https://etcher.io/) (v1.2.0 or later)
