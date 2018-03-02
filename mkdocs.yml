@@ -40,6 +40,7 @@ pages:
   - '3D models': 'hardware/3dmodels.md'
   - 'Power module': 'hardware/power-module.md'
   - 'Mounting': 'hardware/mounting.md'
+  - 'Connection schemes': 'hardware/connection-schemes.md'
 - Optional Accessories:
   - 'Vibration damping': 'accessories/vibro.md'
 - Flying with QGroundControl:
