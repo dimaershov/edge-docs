@@ -14,7 +14,7 @@ To connect Edge to your computer use a Micro-USB to USB-A cable from the kit.
 
 ## Flash your Edge
 
-### QGroundControl (Windows/Linux)
+### QGroundControl (Windows/Linux/OSX)
 
 !!! tip
 	Graphical user interface depends on your system. Main steps are equivalent for Linux and Windows.
