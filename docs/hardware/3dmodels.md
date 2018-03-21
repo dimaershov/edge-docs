@@ -1,11 +1,11 @@
 ## Edge
 
-[**EDGE.iges**](http://files.emlid.com/edge/3Dmodels/EDGE.iges)
+[**Edge.iges**](https://github.com/emlid/hardware/blob/master/Edge.iges)
 
-[**EDGE.step**](http://files.emlid.com/edge/3Dmodels/EDGE.step)
+[**Edge.step**](https://github.com/emlid/hardware/blob/master/Edge.step)
 
 ## Edge GNSS
 
-[**Edge__GNSS.iges**](http://files.emlid.com/edge/3Dmodels/Edge__GNSS.iges)
+[**Edge_GNSS.iges**](https://github.com/emlid/hardware/blob/master/Edge_GNSS.iges)
 
-[**Edge__GNSS.step**](http://files.emlid.com/edge/3Dmodels/Edge__GNSS.step)
+[**Edge_GNSS.step**](https://github.com/emlid/hardware/blob/master/Edge_GNSS.step)
